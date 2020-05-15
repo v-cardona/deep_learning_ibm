@@ -1,32 +1,28 @@
 # deepLearningTensorFlow
 Curso [Deep Learning with Tensorflow](https://www.edx.org/es/course/deep-learning-with-tensorflow) de edx.org ofrecido por IBM
 
-Module 1 – Introduction to TensorFlow
+Module 1 – Introduction to Deep Learning
 
-- HelloWorld with TensorFlow
-- Linear Regression
-- Nonlinear Regression
--  Logistic Regression
+- Introduction to Deep Learning
+- Biological Neural Networks
+- Artificial Neural Networks - Forward Propagation 
 
-Module 2 – Convolutional Neural Networks (CNN)
+Module 2 – Artificial Neural Networks
 
-- CNN Application
-- Understanding CNNs 
+- Gradient Descent
+- Backpropagation
+- Vanishing Gradient
+- Activation Functions 
 
-Module 3 - Recurrent Neural Networks (RNN)
+Module 3 - Deep Learning Libraries
 
-- Intro to RNN Model
-- Long Short-Term memory (LSTM) 
+- Introduction to Deep Learning Libraries
+- Regression Models with Keras
+- Classification Models with Keras 
 
-Module 4 - Restricted Boltzmann Machine
+Module 4 - Deep Learning Models
 
-- Restricted Boltzmann Machine
-- Collaborative Filtering with RBM
-
-Module 5 - Autoencoders
-
-- Introduction to Autoencoders and Applications
+- Shallow and Deep Neural Networks
+- Convolutional Neural Networks
+- Recurrent Neural Networks
 - Autoencoders
-- Deep Belief Network
-
-Module 6 - Deployment
