@@ -1,7 +1,7 @@
 # deep_learning_ibm
 [Deep Learning Professional Certificate Program](https://credentials.edx.org/credentials/5dc96151d27c4eeabb186f4384b315a8/)
 
-[Program description](https://www.edx.org/es/professional-certificate/ibm-deep-learning) de edx.org offered por IBM
+[Program description](https://www.edx.org/es/professional-certificate/ibm-deep-learning) of edx.org offered by IBM
 
 Course 1 - Deep Learning with Keras
  - deep_learning_fundamentals_keras
