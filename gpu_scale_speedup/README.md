@@ -1,6 +1,8 @@
 # deepLearningTensorFlow
 Curso [Using GPUs to Scale and Speed-up Deep Learning](https://www.edx.org/es/course/using-gpus-to-scale-and-speed-up-deep-learning) de edx.org ofrecido por IBM
 
+[Course certificate](https://courses.edx.org/certificates/8f27655c5a964bad946791ef870767bb)
+
 Module 1 – Quick review of Deep Learning
 
 - Intro to Deep Learning
