@@ -1,6 +1,8 @@
 # deepLearningTensorFlow
 Curso [Deep Learning with Tensorflow](https://www.edx.org/es/course/deep-learning-with-tensorflow) de edx.org ofrecido por IBM
 
+[Course certificate](https://courses.edx.org/certificates/b76ba04ce43c4efda60f55f5512f12e3)
+
 Module 1 – Introduction to Deep Learning
 
 - Introduction to Deep Learning
