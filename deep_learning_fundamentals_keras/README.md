@@ -1,6 +1,8 @@
 # deepLearningKeras
 Curso [Deep Learning Fundamentals with Keras](https://www.edx.org/es/course/deep-learning-fundamentals-with-keras) de edx.org offered por IBM
 
+[Course certificate](https://courses.edx.org/certificates/4591a981db284176a0b5da386255614d)
+
 Module 1 – Introduction to Deep Learning
 
 - Introduction to Deep Learning
