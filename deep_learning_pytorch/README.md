@@ -1,6 +1,8 @@
 # deepLearningPyTorch
 Curso [Deep Learning with Python and PyTorch](https://www.edx.org/es/course/deep-learning-with-python-and-pytorch) de edx.org ofrecido por IBM
 
+[Course certificate](https://courses.edx.org/certificates/802f8c09b93a498da6a1e4b9f1edc33d)
+
 Module 1 – Introduction to Pytorch
 
 - What’s Deep Learning and why Pytorch
